@@ -1,0 +1,1 @@
+extern void delay_s(unsigned int seconds);
